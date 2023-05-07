@@ -1,4 +1,6 @@
-## Hi there 👋
+## Saludos 👋
+
+🤔 Iniciando un nuevo camino de aprendizaje en tecnología
 
 <!--
 **tech1969/tech1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
